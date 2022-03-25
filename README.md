@@ -4,3 +4,8 @@
 1. Horse
 2. Cow
 3. Pig
+
+-fred
+-ned
+-ted
+-ed
